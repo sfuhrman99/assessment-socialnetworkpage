@@ -1,0 +1,172 @@
+
+* {
+    box-sizing: border-box;
+    
+}
+
+.background-whole {
+    position: relative;
+    background-position: center;
+    background-color: lightgray;
+    width: 900px;
+    height: 2500px;
+}
+.header-block {
+    position: relative;
+    left: 25px;
+    top: -2480px;
+}
+.header-bg {
+    width: 850px;
+    height: 300px;
+    background-color: darkblue;
+}
+.header-pfp {
+    width: 200px;
+    height: 200px;
+    background-color: darkblue;
+    border: 3px solid black;
+
+    position: relative;
+    top: -250px;
+    left: 10px;
+}
+.header-white-space {
+    width: 850px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid black;
+
+    position: relative;
+    
+}
+.header-bg-buttons {
+    position: relative;
+    top: -350px;
+    left: 600px;
+    margin: 0px;
+    
+}
+.like-button {
+    width: 40px;
+    padding: 1px 0px;
+}
+
+.header-title {
+    position: relative;
+    top: -450px;
+    left: 220px;
+
+    color: white;
+    font-family: sans-serif;
+   
+}
+
+.nav-line {
+    position: relative;
+    top: -400px;
+    left: 180px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.nav-line li {
+    list-style-type:none;
+    display: inline;
+    padding: 5px;
+    
+}
+#Welcome {
+    border-left: 1px dotted black;
+}
+#FWB {
+    border-left: 1px dotted black;
+}
+#More {
+    border-left: 1px dotted black;
+}
+
+.columns {
+    position: relative;
+    top: -2480px;
+    left: 25px;
+    
+}
+.about-page div {
+    height: 40px;
+    border: 1px dotted black;
+}
+.about-page {
+    background-color: white;
+    position: relative;  
+    top: -380px;
+    width: 328px;
+    height: 180px;
+    font-family: sans-serif;
+    
+    
+
+}
+.about-page h3 {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.about-page p {
+    position: relative;
+    top: -40px;
+
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+
+.right-post-first {
+    position: relative;
+    height: 340px;
+    
+    top: -560px;
+    left: 338px;
+    
+    width: 512px;
+    background-color: white;
+}
+.right-post-first .pfp {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 50px;
+    width: 50px;
+    
+
+
+    background-color: darkblue;
+}
+.right-post-first h3 {
+    position: relative;
+    top: -270px;
+    left: 80px;
+
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+.right-post-first [word="changed"]  {
+    color: red;
+}
+.right-post-first .picture {
+    position: relative;
+    top: 35px;
+    left: 6px;
+    height: 220px;
+    width: 500px;
+    
+    
+
+    background-color: darkblue;
+    background-position: center;
+}
